@@ -118,5 +118,8 @@ jupyter notebook "Credit Card Fraud Detection.ipynb"
 
 ## Contributors
 
-- **Your Name**: [GitHub Profile](https://github.com/Nimra-Z)
+- **Nimra Zaheer**: [GitHub Profile](https://github.com/Nimra-Z)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
